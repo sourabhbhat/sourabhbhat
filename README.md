@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @sourabhbhat
 - 👀 I’m interested in web development and competitive programming
-- 🌱 I’m currently learning c,java,CSS,Javascript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me- bhatsourabh3@gmail.com
+- 🌱 I’m currently learning HTML5,java,CSS,Javascript and C++
+- 💞️ I’m looking to collaborate on Web Development,advanced video editing and motion graphics
+- 📫 How to reach me- bhatsourabh3@gmail.com || linkedIn profile-https://www.linkedin.com/in/sourabh-d-bhat
 
 <!---
 sourabhbhat/sourabhbhat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
