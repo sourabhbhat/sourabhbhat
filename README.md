@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sourabhbhat
 - 👀 I’m interested in web development and competitive programming
-- 🌱 I’m currently learning Next.js and Relational databases
+- 🌱 I’m currently learning Next.js, MySQL and backend development (Creating REST APIs).
 - 💞️ I’m looking to collaborate on Web Development,advanced video editing and motion graphics
 - 📫 How to reach me- bhatsourabh3@gmail.com || linkedIn profile-https://www.linkedin.com/in/sourabh-d-bhat
 
