@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @sourabhbhat
 - 👀 I’m interested in web development and competitive programming
-- 🌱 I’m currently learning Next.js, MySQL and backend development (Creating REST APIs) and understanding various API Architectures
-- 💞️ I’m looking to collaborate on Web Development,advanced video editing and motion graphics
-- 📫 How to reach me- bhatsourabh3@gmail.com || linkedIn profile-https://www.linkedin.com/in/sourabh-d-bhat
+- 🌱 I’m currently learning Backend Development, understanding various API Architectures and also learning various DevOps tools like Docker, Kubernetes etc.
+- 💞️ I’m looking to collaborate on FullStack Development, advanced video editing and motion graphics.
+- 📫 How to reach me- bhatsourabh3@gmail.com || LinkedIn profile-https://www.linkedin.com/in/sourabh-d-bhat
 
 
 
